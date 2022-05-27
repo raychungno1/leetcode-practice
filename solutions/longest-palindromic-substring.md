@@ -59,8 +59,6 @@ Try to find the palindrome "centered" at each character. Note that palindromes h
 
 Iterate through each character in the string. At each character, find the longest even-length and odd-length substring centered at this character. 
 
-Since 
-
 *Time: `O(n^2)`*
 >Iterating through the string is `O(n)` and generating the long palindrome is `O(n)`.
 

@@ -5,7 +5,7 @@ Description
 ---
 
 <details>
-  <summary><b>Brute Force</b></summary>
+<summary><b>Brute Force</b></summary>
   
 Summary
 
@@ -21,7 +21,7 @@ Summary
 
 ---
 <details>
-  <summary><b>Hint for Optimal Solution</b></summary>
+<summary><b>Hint for Optimal Solution</b></summary>
   
 Summary
 
@@ -29,7 +29,7 @@ Summary
 
 ---
 <details>
-  <summary><b>Optimal</b></summary>
+<summary><b>Optimal</b></summary>
 
 Summary
 

@@ -1,6 +1,7 @@
 # Leetcode Practice
 
 ### Arrays
+[3Sum]()
 
 ### Binary
 
