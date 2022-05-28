@@ -20,6 +20,8 @@
 
 [Longest Palindromic Substring](solutions/longest-palindromic-substring.md)
 
+[Text Justification](solutions/text-justification.md)
+
 ### Tree
 
 ### Trie
