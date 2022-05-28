@@ -22,6 +22,8 @@
 
 [Text Justification](solutions/text-justification.md)
 
+[Decode String](solutions/decode-string.md)
+
 ### Tree
 
 ### Trie
