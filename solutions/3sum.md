@@ -9,7 +9,7 @@ The solution set must not contain duplicate triplets.
 <details>
 <summary><b>Brute Force</b></summary>
 
-Use a triple-loop to iterate through each index of the array, makine sure that indecies are not repeated multiple times when iterating.
+Use a triple-loop to iterate through each index of the array, making sure that indexes are not repeated multiple times when iterating.
 
 Inside the for loop, check if the values at all 3 indexes add up to 0; if they do, sort the values, and add the resulting triplet a HashSet (this is done to remove duplicates). 
 
@@ -72,7 +72,6 @@ Start with a `left` pointer at `i + 1` and a `right` pointer at the end of the a
 > Same as brute force solution.
 
 ```python
- 
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         

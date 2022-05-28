@@ -1,7 +1,7 @@
 # Leetcode Practice
 
 ### Arrays
-[3Sum]()
+[3Sum](solutions/3sum.md)
 
 ### Binary
 
