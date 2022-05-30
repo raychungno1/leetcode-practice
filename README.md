@@ -24,6 +24,8 @@
 
 [Decode String](solutions/decode-string.md)
 
+[Time Based Key-Value Store](solutions/time-based-kv-store.md)
+
 ### Tree
 
 ### Trie
